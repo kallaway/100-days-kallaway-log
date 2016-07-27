@@ -68,28 +68,69 @@ The log of my 100 Days Of Code (to keep separate from main repo and let people f
 **Link to work:** [Pomodoro Clock App](https://github.com/Kallaway/pomodoro-clock/commit/a8017e11fbe46ecc4c16916cf381769abc910a8f)
 
 ### Day 9: June 21 Tuesday
-Created a repo that serves as a rule framework and a log (journal) that anyone can fork to start the 100DaysOfCode challenge and to track their progress
+
+**Today's Progress**: Created a repo that serves as a rule framework and a log (journal) that anyone can fork to start the 100DaysOfCode challenge and to track their progress
+
+**Thoughts:** Excited to be able to answer questions and formalize the process of taking on the challenge and progressing through it!
+
+**Link to work:** [100 Days Of Code Repo](https://github.com/Kallaway/100-days-of-code/commit/46579cb5854a43e0cb0473c00dd88275792a9bb3)
 
 ### Day 10: June 22 Wednesday
-Setting things up for the new Twitch TV project
+
+**Today's Progress**: Setting things up for the new Twitch TV project
+
+**Thoughts:** Feeling good about this project, should be a bit simpler than Pomodoro Clock was.
+
+**Link to work:** [Twitch TV Status App](https://github.com/Kallaway/twitch-tv-viewer/commit/149fa4398a0d51fdc8473d82c2d732abe665e62f)
 
 ### Day 11: June 23 Thursday
-Working on sending requests to Twitch TV API, receiving object info and storing it.
+
+**Today's Progress**: Working on sending requests to Twitch TV API, receiving object info and storing it.
+
+**Thoughts:** Interesting to be working with an API, but sometimes the process of figuring out how to get the data correctly feels a bit too slow.
+
+**Link to work:** [Twitch TV Status App](https://github.com/Kallaway/twitch-tv-viewer/commit/0e63b02bee5a0561ce9badb8847c3fb397766a17)
 
 ### Day 12: June 24 Friday
-Introduced myself to Gulp (for SCSS build), and learnt the basics of how it works, fixed channel info storing.
+
+**Today's Progress**: Introduced myself to Gulp (for SCSS build), and learnt the basics of how it works, fixed channel info storing.
+
+**Thoughts:** Very excited to finally work with Gulp and SCSS! I think that I've had an illusion of that being too difficult, when in reality, it turned out to be manageable.
+
+**Link to work:** [Twitch TV Status App](https://github.com/Kallaway/twitch-tv-viewer/commit/037813644d6b00c83b62e6438c0b1c85a10f5e75)
+
 
 ### Day 13: June 25 Saturday
-Figured out the issues I had with gulp not exporting css properly. I've also found a way to make gulp create a css file out of scss on every save of the file. After that, I've looked into connecting the github pages repository to my own domain. I've had issues with that before, but now was able to set everything up in such a way that my kallaway.github.io site works on the www.kallaway.io domain.
+
+**Today's Progress:** Figured out the issues I had with gulp not exporting css properly. I've also found a way to make gulp create a CSS file out of SCSS on every save of the file. After that, I've looked into connecting the github pages repository to my own domain. I've had issues with that before, but now was able to set everything up in such a way that my kallaway.github.io site works on the www.kallaway.io domain. Most of the settings had to be done on the domain registrar site.
+
+**Thoughts:** Feel great about finally figuring out a way to use Github pages for my site.
+
+**Link to work:** [Personal Site - kallaway.io](https://github.com/Kallaway/kallaway.github.io/commit/e6cbe92ec39af252f78f7741e6afebce8e867f47)
 
 ### Day 14: June 26 Sunday
-Worked on displaying the results of API requests to TwitchTV
+
+**Today's Progress:** Worked on displaying the results of API requests to TwitchTV
+
+**Thoughts:** Progress on this feels slow, but it's fun to construct how exactly the response should be displayed.
+
+**Link to work:** [Twitch TV Status App](https://github.com/Kallaway/twitch-tv-viewer/commit/044548683a6b1e6e6ba325a9fc06e6e6ff091d6e)
 
 ### Day 15: June 27 Monday
-Worked on appending the results to the page in the right way using jQuery. Understood that I should refresh my jQuery knowledge to be more effective in this project. I will do that on the subway by watching CodeSchool videos on jQuery. Then, at home, I will just work on the project some more.
+
+**Today's Progress:** Worked on appending the results to the page in the right way using jQuery. Understood that I should refresh my jQuery knowledge to be more effective in this project. I will do that on the subway by watching CodeSchool videos on jQuery. Then, at home, I will just work on the project some more.
+
+**Thoughts:** I am enjoying this, though I am always surprised how far my expectations of what the DOM results will be like actually end up looking when I reload the page.
+
+**Link to work:** [Twitch TV Status App](https://github.com/Kallaway/twitch-tv-viewer/commit/fb0520620ab120ee26146a37a4932b92779db700)
 
 ### Day 16: June 28 Tuesday
-I've gone through some jQuery refreshers during the day, and was able to detect past errors of working with the DOM incorrectly. This led to me being able to receive the data and display it in a nice way on the page, approaching the functionality of the example app. Design still needs a lot of work, and I am considering adding some more functionality to the app. Also looking at Jekyll for some personal site projects.
+
+**Today's Progress:** I've gone through some jQuery refreshers during the day, and was able to detect past errors of working with the DOM incorrectly. This led to me being able to receive the data and display it in a nice way on the page, approaching the functionality of the example app. Design still needs a lot of work, and I am considering adding some more functionality to the app. Also looking at Jekyll for some personal site projects.
+
+**Thoughts:** Happy with my progress today.
+
+**Link to work:** [Twitch TV Status App](https://github.com/Kallaway/twitch-tv-viewer/commit/8bdff34f49665b24acedf4bb5f95533382c4f289)
 
 ### Day 17: June 29 Wednesday
 Improved design, added online/offline channel indication, made channel status display properly.
